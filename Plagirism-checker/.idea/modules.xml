@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Plagiarism-Checker-Python.iml" filepath="$PROJECT_DIR$/.idea/Plagiarism-Checker-Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Plagirism-checker.iml" filepath="$PROJECT_DIR$/.idea/Plagirism-checker.iml" />
     </modules>
   </component>
 </project>
